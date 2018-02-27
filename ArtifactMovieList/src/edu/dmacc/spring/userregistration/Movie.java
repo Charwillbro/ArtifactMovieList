@@ -1,5 +1,6 @@
 package edu.dmacc.spring.userregistration;
-
+// Charles Broderick
+// Charwillbro@gmail.com
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
